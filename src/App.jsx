@@ -14,7 +14,7 @@ function App() {
       {/* Render the Header component */}
       <Header/>
       {/* Container for AddTodo and TodoList components, centered horizontally */}
-      <div className="mt-10 md:mt-16 max-w-5xl mx-auto">
+      <div className="mt-10 md:mt-16 max-w-5xl mx-auto pb-20">
         {/* Render the AddTodo component */}
         <AddTodo/>
         {/* Render the TodoList component */}
