@@ -28,7 +28,7 @@ const TodoList = () => {
           todos?.map((todo) => (
             <div
               key={todo.id}
-              className="flex justify-between items-center border rounded-lg bg-primaryDark py-3 px-2 md:px-10 border-primaryContent odd:hover:-translate-x-2 even:hover:translate-x-2 transition-all duration-500 hover:bg-primary"
+              className="flex justify-between items-center border rounded-lg bg-primaryDark py-3 px-2 md:px-10 border-primaryContent odd:hover:-translate-x-2 even:hover:translate-x-2 transition-all duration-500 hover:bg-primary "
             >
               {/* Todo text */}
               <p className=" md:text-2xl font-semibold text-primaryContent">{todo.text}</p>
