@@ -51,9 +51,9 @@ const TodoList = () => {
                     // Dispatch completeTodo action based on todo completion status and show toast message
                     dispatch(completeTodo(todo.id));
                     if (todo.completed) {
-                      toast.success("Task Marked as Complete");
+                      toast.warning("Task Marked as Incomplete");
                     } else {
-                      toast.warning("Task Marked as Incomplete.");
+                      toast.success("Task Marked as Complete.");
                     }
                   }}
                   className={`${todo.completed ? "text-warning border-border" : "border-border text-successContent"} border border-solid rounded-lg p-1 hover:scale-125 transition-all duration-500`}
