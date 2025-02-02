@@ -67,3 +67,17 @@ This application is a Todo list manager built using React and Redux. It allows u
 
 In conclusion, this Todo list application demonstrates effective use of React and Redux for state management, along with additional libraries for enhanced functionality and user experience. The application provides a simple yet powerful tool for managing tasks efficiently, with features such as dynamic text resizing and animated buttons contributing to its usability and appeal. With its clean codebase and intuitive design, the application serves as a solid foundation for further expansion and customization to meet specific requirements and preferences.
 
+## 🏆 **Author:** Md Enayetur Rahman
+
+### Contact Information
+- [LinkedIn](https://www.linkedin.com/in/md-enayetur-rahman/)
+- [Facebook](https://www.facebook.com/profile.php?id=100094416483981)
+- [X (Twitter)](https://x.com/enayetu_syl)
+- [YouTube](https://www.youtube.com/@MdEnayeturRahman)
+- [GitHub](https://github.com/enayetsyl/)
+- [Medium](https://medium.com/@enayetflweb)
+- [dev.to](https://dev.to/md_enayeturrahman_2560e3)
+- [Leetcode](https://leetcode.com/u/XTl7hvNPIc/)
+- [Hackerrank](https://www.hackerrank.com/profile/enayetflweb)
+- [Codeforces](https://codeforces.com/profile/enayetsyl)
+- [Email](mailto:enayetflweb@gmail.com)
